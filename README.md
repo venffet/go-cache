@@ -77,7 +77,3 @@ func main() {
 	}
 }
 ```
-
-### Reference
-
-`godoc` or [http://godoc.org/github.com/venffet/go-cache](http://godoc.org/github.com/venffet/go-cache)
